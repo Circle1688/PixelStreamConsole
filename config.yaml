@@ -1,0 +1,20 @@
+HomepageFile: player_file.html
+Host: 127.0.0.1
+HttpPort:
+  max: 94
+  min: 91
+Matchmaker: C:\Users\Administrator\Desktop\Samples\PixelStreaming\WebServers\Matchmaker\platform_scripts\cmd\run_uncheck.bat
+MatchmakerHttpPort: 90
+MatchmakerPort: 9999
+Password: 123456
+Res:
+  X: 1920
+  Y: 1080
+ServerUsername: Administrator
+SessionNum: 2
+SignallingWebServer: C:\Users\Administrator\Desktop\Samples\PixelStreaming\WebServers\SignallingWebServer\platform_scripts\cmd\Start_WithTURN_SignallingServer.ps1
+StreamerPort:
+  max: 9990
+  min: 9960
+TurnServer: C:\Users\Administrator\Desktop\Samples\PixelStreaming\WebServers\SignallingWebServer\platform_scripts\cmd\Start_TURNServer.ps1
+UE_exe: E:\Projects\pythonProjects\FaceSwapProject\FaceSwap4UE\PakTest\Windows\FaceSwap.exe

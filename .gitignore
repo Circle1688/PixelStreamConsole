@@ -1,0 +1,6 @@
+.idea/
+run.bat
+run_remote.bat
+venv/
+output/
+__pycache__/
